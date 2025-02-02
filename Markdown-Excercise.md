@@ -27,7 +27,7 @@ Febuary 2, 2025
 
 # Images
 
-![dog photo
+![dog photo](URL_of_the_dog_photo)
 
 # Blockquote
 > Quote
@@ -39,7 +39,7 @@ Febuary 2, 2025
 
 `I attend Montgomery College`
 
-`I will graduate with an associats degree in Business Analytics`
+`I will graduate with an associates degree in Business Analytics`
 
 ```
 I play soccer
