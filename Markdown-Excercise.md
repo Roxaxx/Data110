@@ -7,11 +7,11 @@ Febuary 2, 2025
 ## Bold and Italics Text
 **I graduate this Spring.**
 
-*I love travelling*
+*I love traveling*
 
 ### Ordered and unordered list ###
 
-# Travelling List
+# Traveling List
 1. passport
 2. print boarding pass
 3. check blue bag
@@ -39,7 +39,7 @@ Febuary 2, 2025
 
 `I attend Montgomery College`
 
-`I will graduate with an associates degree in Business Analytics`
+`I will graduate with an associate degree in Business Analytics`
 
 ```
 I play soccer
