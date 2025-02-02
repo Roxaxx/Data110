@@ -2,7 +2,7 @@
 # Author
 Roxann Bowley
 
-Febuary 2, 2025
+February 2, 2025
 
 ## Bold and Italics Text
 **I graduate this Spring.**
