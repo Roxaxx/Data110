@@ -61,7 +61,7 @@ I love to browse the web and read
 
 ### Footnote.[^1]
 
-[^1]: I love soccer, but I know I can so better if I practice more.
+[^1]: I love soccer, but I know I can be better if I practice more.
 
 
 
